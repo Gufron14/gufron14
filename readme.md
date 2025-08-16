@@ -8,6 +8,7 @@
 ---
 
 ## 🌟 Tech Stack
+- **AI:** Chat GPT, Trae, AMP
 - **Backend:** Laravel, PHP
 - **Frontend:** Livewire, Bootstrap 5.3+, sedikit Tailwind vibes
 - **Other:** MySQL, Git, Creative Marketing tools
@@ -15,7 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Gufron's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Gufron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gufron14&show_icons=true&theme=tokyonight)
 
 ---
 
